@@ -10,7 +10,7 @@ What makes a good RPG game appealing to a gamer? What did gamers enjoy and disli
  
    The notebooks below contain the data analysis and ML code used for this project.
  
-   * Data Wrangling - Web scraping script
+   * [Data Wrangling](https://github.com/filiaguilar/Metacritic_Sentiment_Analysis/blob/main/notebooks/Data%20Wrangling.ipynb) - Web scraping script
    * Data Cleaning - Data cleaning and feature creation, used with the conjunction.py script for text processing
    * Exploratory Data Analysis - Visuals and graphs depicting the data
    * Pre-processing and modeling - Pre-processing and model creation to address the problem
