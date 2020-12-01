@@ -18,7 +18,7 @@ What makes a good RPG game appealing to a gamer? What did gamers enjoy and disli
 
 3. Reports
  
-   Final Report
+   [Final Report](https://github.com/filiaguilar/Metacritic_Sentiment_Analysis/blob/main/reports/Metacritic%20Sentiment%20Analysis%20Report.pdf)
  
    * Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
  
