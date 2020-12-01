@@ -12,8 +12,8 @@ What makes a good RPG game appealing to a gamer? What did gamers enjoy and disli
  
    * [Data Wrangling](https://github.com/filiaguilar/Metacritic_Sentiment_Analysis/blob/main/notebooks/Data%20Wrangling.ipynb) - Web scraping script
    * [Data Cleaning](https://github.com/filiaguilar/Metacritic_Sentiment_Analysis/blob/main/notebooks/Data%20Cleaning.ipynb) - Data cleaning and feature creation, used with the conjunction.py script for text processing
-   * Exploratory Data Analysis - Visuals and graphs depicting the data
-   * Pre-processing and modeling - Pre-processing and model creation to address the problem
+   * [Exploratory Data Analysis](https://github.com/filiaguilar/Metacritic_Sentiment_Analysis/blob/main/notebooks/Exploratory%20Data%20Analysis.ipynb) - Visuals and graphs depicting the data
+   * [Pre-processing and modeling](https://github.com/filiaguilar/Metacritic_Sentiment_Analysis/blob/main/notebooks/Pre-processing%20and%20Modeling.ipynb) - Pre-processing and model creation to address the problem
    
 
 3. Reports
